@@ -6,7 +6,7 @@ import com.projectpages.SpringThymeleaf.domain.Funcionario;
 
 public interface FuncionarioDao {
 	
-void save(Funcionario funcionario);
+	void save(Funcionario funcionario);
 	
 	void update(Funcionario funcionario);
 	
